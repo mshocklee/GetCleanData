@@ -17,3 +17,6 @@ The code file includes many comments explaining the code, but a brief descriptio
 5. *dat* is then sent through two loops that go through each subjectID and corresponding activity, averaging all data and adding a new row for each of the 180 subjectID/activity combinations to the new data frame *tidydat*.
 6. The final *tidydat* data frame is written to the text data file mentioned above without row names.
 7. The final line of code clears all variables from memory.
+
+
+The file **CodeBook.md** includes information on how the original data set was used to create to the new data set as well as explanations of the *tidydata* variables listed in **tidyfeatures.txt**.
