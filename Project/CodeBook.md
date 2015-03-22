@@ -1,9 +1,7 @@
 
 
-Getting and Cleaning Data (class 012)
-=====================================
-Course Project
---------------
+#Getting and Cleaning Data (class 012)
+##Course Project
 
 This course project was designed to allow the demonstration of students' abilities to collect, work with, and clean a data set. A data set was provided that was collected from the accelerometers from the Samsung Galaxy S smartphone. Multiple files were included with the data set that provided detailed explanations of the collected data as well as the transformed data from two groups, the test group and the training group.
 
@@ -25,6 +23,7 @@ The output file resulting from this project included 180 rows of data in the new
 * SITTING
 * STANDING
 * LAYING
+
 Each of the 6 activities for each subject included 79 variables. These variables were computed as the average of the original multiple measurements for each activity/subject combination.
 
 The new data set produced through this project used only the mean and standard deviation recordings from the X_group files resulting in the 79 columns of computed measurements instead of the original 561. These columns were labeled the same as the original data set and an explanation of the variables can be found in the features_info.txt file. Some students may have come up with more than 79 measurements, but this rendition of the project did not include any mean or standard deviation data used in an angle() function as seen at the end of the features.txt file. A new file was created, tidyfeatures.txt, that lists all columns in the new tidy data set.
