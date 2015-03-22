@@ -6,6 +6,7 @@ The code file that produces the required data set and the corresponding text fil
 * __tidydata_subject.activity.averages.txt__
 
 The code file includes many comments explaining the code, but a brief description follows:
+
 1. The activity_labels.txt and features.txt files are first read in as the data frames *actLabels* and *features*, their columns labelled and column classes set appropriately. The *features* data frame is parsed and set to only include the 79 mean and standard deviation features (excluding angle measurements).
 2. The test data is read in to the new data frame *test*, through a few steps.
 	1. The subject_test.txt file is read in, creating the first column labelled *subjectID* in the *test* data frame.
