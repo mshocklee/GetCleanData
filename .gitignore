@@ -45,10 +45,6 @@ getdata-data-DATA.gov_NGAP.xlsx
 getdata-data-restaurants.xml
 *.csv
 Project/getdata-projectfiles-UCI HAR Dataset.zip
-Project/UCI HAR Dataset/activity_labels.txt
-Project/UCI HAR Dataset/features.txt
-Project/UCI HAR Dataset/features_info.txt
-Project/UCI HAR Dataset/README.txt
 Project/UCI HAR Dataset/test/Inertial Signals/body_acc_x_test.txt
 Project/UCI HAR Dataset/test/Inertial Signals/body_acc_y_test.txt
 Project/UCI HAR Dataset/test/Inertial Signals/body_acc_z_test.txt
@@ -58,9 +54,6 @@ Project/UCI HAR Dataset/test/Inertial Signals/body_gyro_z_test.txt
 Project/UCI HAR Dataset/test/Inertial Signals/total_acc_x_test.txt
 Project/UCI HAR Dataset/test/Inertial Signals/total_acc_y_test.txt
 Project/UCI HAR Dataset/test/Inertial Signals/total_acc_z_test.txt
-Project/UCI HAR Dataset/test/subject_test.txt
-Project/UCI HAR Dataset/test/X_test.txt
-Project/UCI HAR Dataset/test/y_test.txt
 Project/UCI HAR Dataset/train/Inertial Signals/body_acc_x_train.txt
 Project/UCI HAR Dataset/train/Inertial Signals/body_acc_y_train.txt
 Project/UCI HAR Dataset/train/Inertial Signals/body_acc_z_train.txt
@@ -70,6 +63,3 @@ Project/UCI HAR Dataset/train/Inertial Signals/body_gyro_z_train.txt
 Project/UCI HAR Dataset/train/Inertial Signals/total_acc_x_train.txt
 Project/UCI HAR Dataset/train/Inertial Signals/total_acc_y_train.txt
 Project/UCI HAR Dataset/train/Inertial Signals/total_acc_z_train.txt
-Project/UCI HAR Dataset/train/subject_train.txt
-Project/UCI HAR Dataset/train/X_train.txt
-Project/UCI HAR Dataset/train/y_train.txt
