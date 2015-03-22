@@ -19,4 +19,4 @@ The code file includes many comments explaining the code, but a brief descriptio
 7. The final line of code clears all variables from memory.
 
 
-The file **CodeBook.md** includes information on how the original data set was used to create to the new data set as well as explanations of the *tidydata* variables listed in **tidyfeatures.txt**.
+The file **CodeBook.md** includes information on how the original data set was used to create the new data set as well as explanations of the *tidydata* variables listed in **tidyfeatures.txt**.
